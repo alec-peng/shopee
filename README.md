@@ -19,7 +19,8 @@ Step 1: Migrating the FMS Python service to the FO (FleetOrder) Golang service, 
 
 Step 2: Focusing on further decoupling by separating the tracking feature from FO to create an independent Track Service, along with a series of optimizations to improve service performance and data consistency.
 
-![image](https://github.com/user-attachments/assets/d2cc82ed-c6c6-46ca-afae-60dc5e1eb7bc)
+![image](https://github.com/user-attachments/assets/598eed68-bb0c-46b3-9e3a-072fcd455804)
+
 
 **Tech Doc**
 
