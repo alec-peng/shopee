@@ -2,6 +2,9 @@
 ### 1. Tracking Service
 **Introduction**
 
+![image](https://github.com/user-attachments/assets/ef1839aa-7554-4ec7-ad01-17d864c9e4d6)
+
+
 The Python Django FMS (Fulfillment Management System) integrates the core functionalities of SPX (Shopee Xpress). As the business continues to grow and the team expands, FMS has the following drawbacks: 
 
 1). The functionalities of various modules are tightly coupled, making maintenance difficult. 
@@ -16,6 +19,8 @@ Step 1: Migrating the FMS Python service to the FO (FleetOrder) Golang service, 
 
 Step 2: Focusing on further decoupling by separating the tracking feature from FO to create an independent Track Service, along with a series of optimizations to improve service performance and data consistency.
 
+![image](https://github.com/user-attachments/assets/d2cc82ed-c6c6-46ca-afae-60dc5e1eb7bc)
+
 **Tech Doc**
 
 https://docs.google.com/document/d/1VnE-k1Ih_Q93cclslOHPG4FlXxqkLSBm7DVg8hGxrvo/edit?usp=sharing
@@ -24,6 +29,9 @@ https://docs.google.com/document/d/1VnE-k1Ih_Q93cclslOHPG4FlXxqkLSBm7DVg8hGxrvo/
 **Introduction**
 
 ShopeeHDMS is a heterogeneous database migration service for Shopee. Compared to other industry-standard data migration tools, this tool is designed to be simple, user-friendly, high-performance, configurable, and monitorable, while ensuring data consistency and better adapting to Shopee's business characteristics.
+
+![image](https://github.com/user-attachments/assets/185e1c1a-d7ec-4b17-a20e-142894f762d6)
+
 
 **Main Features**
 
@@ -35,12 +43,17 @@ ShopeeHDMS is a heterogeneous database migration service for Shopee. Compared to
 - Management System: a migration task management system
 - Configuration Center: a configuration center for ShopeeHDMS
 
+![longshot20241120170535](https://github.com/user-attachments/assets/90292c68-1e49-4b37-b446-6a9c8446863f)
+
 **Tech Doc**
 
 https://docs.google.com/document/d/1MBEodQZo_Z0H1qFIYwDY7tYaXwT1KrO-LZkYbzjPlYE/edit?usp=sharing
 
 ### 3. SPXComparator
 **Introduction**
+
+![image](https://github.com/user-attachments/assets/da1cda67-05eb-49e6-8239-48c99f6abb01)
+
 
 SPXComparator is a traffic replay and comparing system for SPX (Shopee Xpress).
 
